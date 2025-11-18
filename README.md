@@ -190,11 +190,7 @@ The model was trained using transfer learning on MobileNetV2:
 
 Feel free to submit issues, fork the repository, and create pull requests for any improvements.
 
-## 📄 License
 
-This project is licensed under the [MIT License](LICENSE)
-
----
 
 <div align="center">
   Made with ❤️ for a cleaner 🌍
